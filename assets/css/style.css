@@ -8,3 +8,46 @@ font-family: 'Oswald', sans-serif;
     color:#FFFFFF;
     font-size: 16px;
 }
+header {
+    background-image: url('../img/foto_dante.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 3rem;
+  }
+
+
+#line{
+    width:30%;
+    height:3px;
+    background-color: #ffffff;
+}
+#line2{
+    margin-top:50px;
+    margin-bottom:70px;
+    width:10%;
+    height:1px;
+    background-color: #000000;
+}
+.text-bottom-center{
+    margin-top:200px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.title-color{
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+}
+.secondary-text-color{
+    color: #373A3C;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+}
+.body-text-color{
+    color: #373A3C;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    text-align:left;
+}
