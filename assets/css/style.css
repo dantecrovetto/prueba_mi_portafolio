@@ -2,3 +2,9 @@ body{
 font-family: 'Open Sans', sans-serif;
 font-family: 'Oswald', sans-serif;
 }
+#nav-colors{
+    background-color: #660066;
+    font-family: 'Open Sans', sans-serif;
+    color:#FFFFFF;
+    font-size: 16px;
+}
