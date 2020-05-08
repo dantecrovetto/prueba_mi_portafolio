@@ -27,6 +27,13 @@ header {
     height:1px;
     background-color: #000000;
 }
+#line3{
+    margin-top:50px;
+    margin-bottom:70px;
+    width:10%;
+    height:1px;
+    background-color: #ffffff; 
+}
 .text-bottom-center{
     margin-top:200px;
     text-align: center;
@@ -57,8 +64,19 @@ footer{
     background-color: #660066;
 }
 footer a{
+    text-decoration: none; 
+    pointer-events: none;
     color:#ffffff;
 }
 #experiencia i{
     color:#660066
+}
+#ultimos_trabajos{
+    background-color: #660066; 
+}
+.comando{
+    height:171.594px;
+}
+.card{
+    margin-bottom: 50px;
 }
