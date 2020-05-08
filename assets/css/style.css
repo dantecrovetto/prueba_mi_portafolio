@@ -15,8 +15,6 @@ header {
     background-position: left;
     padding-bottom: 3rem;
   }
-
-
 #line{
     width:30%;
     height:3px;
@@ -38,6 +36,10 @@ header {
     color: #ffffff;
     font-family: 'Oswald', sans-serif;
 }
+.experiencia-text-color{
+    color: #373A3C;
+    font-family: 'Oswald', sans-serif;
+}
 .secondary-text-color{
     color: #373A3C;
     font-family: 'Oswald', sans-serif;
@@ -50,4 +52,13 @@ header {
     font-size: 20px;
     font-weight: 200;
     text-align:left;
+}
+footer{
+    background-color: #660066;
+}
+footer a{
+    color:#ffffff;
+}
+#experiencia i{
+    color:#660066
 }
