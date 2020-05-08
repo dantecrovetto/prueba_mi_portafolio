@@ -64,8 +64,10 @@ footer{
     background-color: #660066;
 }
 footer a{
-    text-decoration: none; 
-    pointer-events: none;
+    color:#ffffff;
+}
+.txt-decoration{
+    text-decoration: none;
     color:#ffffff;
 }
 #experiencia i{
@@ -78,5 +80,12 @@ footer a{
     height:171.594px;
 }
 .card{
+    margin:auto;
     margin-bottom: 50px;
+
+}
+#carousel-size{
+    width:50%;
+    margin: auto;
+    margin-bottom: 60px;
 }
